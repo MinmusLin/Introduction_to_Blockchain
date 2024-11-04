@@ -15,7 +15,7 @@ A collection of my introduction to blockchain course assignments.
 
 ## 仓库组成
 
-*[Research on the Application of Blockchain Technology in the Judicial Field](Research_on_the_Application_of_Blockchain_Technology_in_the_Judicial_Field)
+* [Research on the Application of Blockchain Technology in the Judicial Field](Research_on_the_Application_of_Blockchain_Technology_in_the_Judicial_Field)
 区块链技术在司法领域的应用研究
 
 ## 免责声明
