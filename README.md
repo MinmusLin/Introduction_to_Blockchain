@@ -18,6 +18,11 @@ A collection of my introduction to blockchain course assignments.
 * [Research on the Application of Blockchain Technology in the Judicial Field](Research_on_the_Application_of_Blockchain_Technology_in_the_Judicial_Field)
 区块链技术在司法领域的应用研究
 
+## 相关仓库
+
+* [Miel Link](https://github.com/MinmusLin/Miel_Link)
+Miel Link：基于 Hyperledger Fabric 的蜂蜜产品供应链溯源系统
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
@@ -26,4 +31,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年11月4日
+2024年12月16日
